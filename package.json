@@ -1,37 +1,37 @@
 {
-  "name": "react-native-appmetrica-yandex",
-  "title": "React Native Yandex Appmetrica",
-  "version": "0.5.0",
-  "description": "React Native Yandex Appmetrica",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ARDcode/react-native-appmetrica-yandex.git",
-    "baseUrl": "https://github.com/ARDcode/react-native-appmetrica-yandex"
-  },
-  "keywords": [
-    "react-native",
-    "android",
-    "ios",
-    "yandex",
-    "appmetrica"
-  ],
-  "author": {
-    "name": "ARDCode",
-    "email": "codeard@gmail.com"
-  },
-  "license": "MIT",
-  "licenseFilename": "LICENSE",
-  "readmeFilename": "README.md",
-  "peerDependencies": {
-    "react": "^16.5.0",
-    "react-native": ">=0.57.0-rc.0 <1.0.x"
-  },
-  "devDependencies": {
-    "react": "^16.5.0",
-    "react-native": "^0.60.3"
-  }
+    "name": "react-native-appmetrica-yandex",
+    "title": "React Native Yandex Appmetrica",
+    "version": "0.5.0",
+    "description": "React Native Yandex Appmetrica",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ARDcode/react-native-appmetrica-yandex.git",
+        "baseUrl": "https://github.com/ARDcode/react-native-appmetrica-yandex"
+    },
+    "keywords": [
+        "react-native",
+        "android",
+        "ios",
+        "yandex",
+        "appmetrica"
+    ],
+    "author": {
+        "name": "ARDCode",
+        "email": "codeard@gmail.com"
+    },
+    "license": "MIT",
+    "licenseFilename": "LICENSE",
+    "readmeFilename": "README.md",
+    "peerDependencies": {
+        "react": "^17.0.2",
+        "react-native": ">=0.57.0-rc.0 <1.0.x"
+    },
+    "devDependencies": {
+        "react": "^17.0.2",
+        "react-native": "^0.66.3"
+    }
 }
